@@ -1,17 +1,21 @@
-p {
+.p {
     background: #ff9999;
-    font-family: Verdana DejaVu Sans sans-serif;   
+    font-family: Verdana DejaVu Sans sans-serif;
 }
 
-.p1 {
-    font-family: DejaVu Sans;
+
+.p2 {
+    font-size: 24px; 
 }
 
-.p3 {
-    font-family: sans-serif;
-}
 
 #div1 {
     color: #4db8ff;
     font-size: 36px;
+}
+
+#div2 {
+    background: #99ff99;
+    font-size: 24px;
+    font-weight: 900;
 }
